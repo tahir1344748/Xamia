@@ -8,8 +8,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 
-import 'package:Xamia/main.dart';
-import 'package:Xamia/MyApp.dart';
+import 'package:xamia/main.dart';
+import 'package:xamia/MyApp.dart';
 
 void main() {
   testWidgets('Counter increments smoke test', (WidgetTester tester) async {
